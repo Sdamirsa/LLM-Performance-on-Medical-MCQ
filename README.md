@@ -46,6 +46,7 @@
 
 # Team and Affiliaiton
 This project was created and is maintained by Seyed Amir Ahmad Safavi-Naini, directed by Ali Soroush and Girish Nadkarni at Mount Sinai Clinical Intelligence Center (MSCIC) and Charles Bronfman Institute for Personalized Medicine at Icahn School of Medicine at Mount Sinai. Special thanks to Bara El-Kurdi for co-directing the Gastroenterology Experiment. 
+
 List of contributors: Zahra Shahhoseini, Sara Rafiee
 
 # Contribute and Connect
