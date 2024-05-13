@@ -1,26 +1,26 @@
 # Table of Content
-[Project Summary and Aim](#project-summary)
-
-#experiment-on-gastroenteorlogy
-
-Live Literature Review
-
-Team and Affiliaiton
-
-Contribute and Connect
+- [Project Summary and Aim](#project-summary)
+- [Experiment on Gastroenteorlogy Context](#experiment-on-gastroenteorlogy)
+  - [Gastroenterology - Result on 20 LLMs ](#gastroenterology---data-and-design)
+  - Gastroenterology - Performance of 20 LLMs
+  - Gastroenterology - Performance of 4 VLMs
+- [Live Literature Review](#live-literature-review)
+- [Team and Affiliaiton](#team-and-affiliaiton)
+- [Contribute and Connect](#contribute-and-connect)
 
 
 # Project Summary
 
 
-# [Experiment on Gastroenteorlogy]
+# Experiment on Gastroenteorlogy
 ## Gastroenterology - data and design
 ...This will be published after the paper is published... 
 
-## Performance of 20 LLMs and 4 VLMs on the Gastroenterology Board Exam
+## Gastroenterology - Performance of 20 LLMs
 
+## Gastroenterology - Performance of 4 VLMs
 
-# [Live Literature Review]
+# Live Literature Review
 [LLM's Performance on Medical MCQs](https://docs.google.com/spreadsheets/d/1mYmuju1V_lpf12x297BdbB-hGb5fza07G76aa9Ckn60/edit?usp=sharing)
 
 | Field; Author                    | Dataset                                   | Handling Image-Inclusive Qs          | Evaluation Metrics                                                      | Stratified Performance                                      | Report Quality - Prompt                                                                | Report Quality -Web Use | Report Quality -Model        | Report Quality -Evaluation | llm-performance                                                                                 | human-performance                                                                                |
@@ -42,10 +42,11 @@ Contribute and Connect
 
 *[Last update: April 2024]*
 
-# [Team and Affiliaiton]
-This project was created and is maintained by Seyed Amir Ahmad Safavi-Naini, directed by Ali Soroush and Girish Nadkarni at Mount Sinai Clinical Intelligence Center (MSCIC) and Charles Bronfman Institute for Personalized Medicine at Icahn School of Medicine at Mount Sinai. 
+# Team and Affiliaiton
+This project was created and is maintained by Seyed Amir Ahmad Safavi-Naini, directed by Ali Soroush and Girish Nadkarni at Mount Sinai Clinical Intelligence Center (MSCIC) and Charles Bronfman Institute for Personalized Medicine at Icahn School of Medicine at Mount Sinai. Special thanks to Bara El-Kurdi on co-directing the Gastroenterology Experiment. 
+List of contributers: Zahra Shahhoseini, Sara Rafiee
 
-# [Contribute and Connect]
+# Contribute and Connect
 We welcome any contribution to expanding this to prepare a benchmark of LLMs in medicine. If you have prepared an MCQ dataset, contact sdamirsa@gmail.com so we can guide you through reproducing the result, generating outputs, and evaluating the answers. Make sure you have the right to use the dataset, beforehand.
 In addition, we totally understand our shortcomings and would welcome any refinements to this pipiline.
 
