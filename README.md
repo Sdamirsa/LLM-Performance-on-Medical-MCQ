@@ -11,14 +11,16 @@
 
 # Project Summary
 
-
 # Experiment on Gastroenteorlogy
+
 ## Gastroenterology - data and design
 ...This will be published after the paper is published... 
 
 ## Gastroenterology - Performance of 20 LLMs
+...This will be published after the paper is published... 
 
 ## Gastroenterology - Performance of 4 VLMs
+...This will be published after the paper is published... 
 
 # Live Literature Review
 [LLM's Performance on Medical MCQs](https://docs.google.com/spreadsheets/d/1mYmuju1V_lpf12x297BdbB-hGb5fza07G76aa9Ckn60/edit?usp=sharing)
@@ -43,11 +45,11 @@
 *[Last update: April 2024]*
 
 # Team and Affiliaiton
-This project was created and is maintained by Seyed Amir Ahmad Safavi-Naini, directed by Ali Soroush and Girish Nadkarni at Mount Sinai Clinical Intelligence Center (MSCIC) and Charles Bronfman Institute for Personalized Medicine at Icahn School of Medicine at Mount Sinai. Special thanks to Bara El-Kurdi on co-directing the Gastroenterology Experiment. 
-List of contributers: Zahra Shahhoseini, Sara Rafiee
+This project was created and is maintained by Seyed Amir Ahmad Safavi-Naini, directed by Ali Soroush and Girish Nadkarni at Mount Sinai Clinical Intelligence Center (MSCIC) and Charles Bronfman Institute for Personalized Medicine at Icahn School of Medicine at Mount Sinai. Special thanks to Bara El-Kurdi for co-directing the Gastroenterology Experiment. 
+List of contributors: Zahra Shahhoseini, Sara Rafiee
 
 # Contribute and Connect
 We welcome any contribution to expanding this to prepare a benchmark of LLMs in medicine. If you have prepared an MCQ dataset, contact sdamirsa@gmail.com so we can guide you through reproducing the result, generating outputs, and evaluating the answers. Make sure you have the right to use the dataset, beforehand.
-In addition, we totally understand our shortcomings and would welcome any refinements to this pipiline.
+In addition, we totally understand our shortcomings and would welcome any refinements to this pipeline.
 
 
