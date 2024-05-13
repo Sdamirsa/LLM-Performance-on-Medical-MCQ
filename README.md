@@ -1,9 +1,9 @@
 # Table of Content
 - [Project Summary and Aim](#project-summary)
-- [Experiment on Gastroenteorlogy Context](#experiment-on-gastroenteorlogy)
-  - [Gastroenterology - Result on 20 LLMs ](#gastroenterology---data-and-design)
-  - Gastroenterology - Performance of 20 LLMs
-  - Gastroenterology - Performance of 4 VLMs
+- [Experiment on Gastroenterology Context](#experiment-on-gastroenteorlogy)
+  - [Gastroenterology - Data and Design](#gastroenterology---data-and-design)
+  - [Gastroenterology - Performance of 20 LLMs](#gastroenterology---performance-of-20-llms)
+  - [Gastroenterology - Performance of 4 VLMs](#gastroenterology---performance-of-4-vlms)
 - [Live Literature Review](#live-literature-review)
 - [Team and Affiliaiton](#team-and-affiliaiton)
 - [Contribute and Connect](#contribute-and-connect)
