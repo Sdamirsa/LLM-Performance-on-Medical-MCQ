@@ -1,11 +1,26 @@
 # Table of Content
-[Live-Literature Review](https://github.com/Sdamirsa/LLM_Answer_GIBoard_Public/tree/main#LiveLiteratureReview)
+[Project Summary and Aim](#project-summary)
+
+#experiment-on-gastroenteorlogy
+
+Live Literature Review
+
+Team and Affiliaiton
+
+Contribute and Connect
+
 
 # Project Summary
 
 
+# [Experiment on Gastroenteorlogy]
+## Gastroenterology - data and design
+...This will be published after the paper is published... 
 
-# Live Literature Review
+## Performance of 20 LLMs and 4 VLMs on the Gastroenterology Board Exam
+
+
+# [Live Literature Review]
 [LLM's Performance on Medical MCQs](https://docs.google.com/spreadsheets/d/1mYmuju1V_lpf12x297BdbB-hGb5fza07G76aa9Ckn60/edit?usp=sharing)
 
 | Field; Author                    | Dataset                                   | Handling Image-Inclusive Qs          | Evaluation Metrics                                                      | Stratified Performance                                      | Report Quality - Prompt                                                                | Report Quality -Web Use | Report Quality -Model        | Report Quality -Evaluation | llm-performance                                                                                 | human-performance                                                                                |
@@ -26,7 +41,12 @@
 | Orthopedic Surgery; Lum et al.   | 212 in-training exam(OITE )               | Excluded                             | • Accuaracy                                                             | • Taxonomy                                                  | Yes (Q + "Select the single best answer" + Options)                                    | Partially               | Insufficient                 | Fully                      | • GPT3.5: 47%                                                                                   | • Pass: 10th percentile (GPT failed)<br>• PGY1: 40th %tile                                       |
 
 *[Last update: April 2024]*
-# Team and Affiliaiton
+
+# [Team and Affiliaiton]
 This project was created and is maintained by Seyed Amir Ahmad Safavi-Naini, directed by Ali Soroush and Girish Nadkarni at Mount Sinai Clinical Intelligence Center (MSCIC) and Charles Bronfman Institute for Personalized Medicine at Icahn School of Medicine at Mount Sinai. 
 
-researchers at Icahn School of Medicine 
+# [Contribute and Connect]
+We welcome any contribution to expanding this to prepare a benchmark of LLMs in medicine. If you have prepared an MCQ dataset, contact sdamirsa@gmail.com so we can guide you through reproducing the result, generating outputs, and evaluating the answers. Make sure you have the right to use the dataset, beforehand.
+In addition, we totally understand our shortcomings and would welcome any refinements to this pipiline.
+
+
